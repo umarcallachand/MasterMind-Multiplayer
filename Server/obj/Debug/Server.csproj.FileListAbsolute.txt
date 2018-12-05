@@ -1,0 +1,36 @@
+C:\Users\Umar\Desktop\MasterMind\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Umar\Desktop\MasterMind\Server\bin\Debug\Server.exe.config
+C:\Users\Umar\Desktop\MasterMind\Server\bin\Debug\Server.exe
+C:\Users\Umar\Desktop\MasterMind\Server\bin\Debug\Server.pdb
+C:\Users\Umar\Desktop\MasterMind\Server\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\Umar\Desktop\MasterMind\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Umar\Desktop\MasterMind\Server\obj\Debug\Server.exe
+C:\Users\Umar\Desktop\MasterMind\Server\obj\Debug\Server.pdb
+C:\Users\Umar\Desktop\MasterMind\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Umar\Desktop\MasterMind\Server\bin\Debug\MasterMind.exe
+C:\Users\Umar\Desktop\MasterMind\Server\bin\Debug\MasterMind.pdb
+C:\Users\Umar\Desktop\MasterMind\Server\bin\Debug\MasterMind.exe.config
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\Server.exe.config
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\Server.exe
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\Server.pdb
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\MasterMind.exe
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\MasterMind.pdb
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\MasterMind.exe.config
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.exe
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.pdb
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\Server.exe.config
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\Server.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\Server.pdb
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\MasterMind.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\NetworkCommsDotNetComplete.dll
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\MasterMind.pdb
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\bin\Debug\MasterMind.exe.config
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.csproj.CopyComplete
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Server\obj\Debug\Server.pdb

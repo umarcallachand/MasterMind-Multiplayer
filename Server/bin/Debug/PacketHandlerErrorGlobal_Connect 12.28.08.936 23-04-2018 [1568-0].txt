@@ -1,0 +1,15 @@
+Base Exception Type: System.ArgumentException: Provided remoteIPAddress string was not successfully parsed.
+Parameter name: remoteIPAddress
+   at NetworkCommsDotNet.ConnectionInfo..ctor(String remoteIPAddress, Int32 remotePort)
+   at NetworkCommsDotNet.NetworkComms.SendObject[sendObjectType](String packetTypeStr, String destinationIPAddress, Int32 destinationPort, sendObjectType sendObject)
+   at Server.Program.GetPlayers(Connection connection) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 131
+   at Server.Program.GetConnect(PacketHeader packetheader, Connection connection, Int32 incomingobject) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 72
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at NetworkCommsDotNet.ConnectionInfo..ctor(String remoteIPAddress, Int32 remotePort)
+   at NetworkCommsDotNet.NetworkComms.SendObject[sendObjectType](String packetTypeStr, String destinationIPAddress, Int32 destinationPort, sendObjectType sendObject)
+   at Server.Program.GetPlayers(Connection connection) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 131
+   at Server.Program.GetConnect(PacketHeader packetheader, Connection connection, Int32 incomingobject) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 72
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)

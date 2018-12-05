@@ -1,0 +1,26 @@
+Base Exception Type: System.InvalidOperationException: Type is not expected, and no contract can be inferred: System.ValueTuple`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]
+   at ProtoBuf.Meta.TypeModel.ThrowUnexpectedType(Type type)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at NetworkCommsDotNet.DPSBase.ProtobufSerializer.SerialiseDataObjectInt(Stream ouputStream, Object objectToSerialise, Dictionary`2 options)
+   at NetworkCommsDotNet.DPSBase.DataSerializer.SerialiseGeneralObject[T](T objectToSerialise, List`1 dataProcessors, Dictionary`2 options)
+   at NetworkCommsDotNet.DPSBase.DataSerializer.SerialiseDataObject[T](T objectToSerialise, List`1 dataProcessors, Dictionary`2 options)
+   at NetworkCommsDotNet.Packet.Constructor[payloadObjectType](String sendingPacketTypeStr, String requestReturnPacketTypeStr, payloadObjectType payloadObject, SendReceiveOptions options, Boolean isNested)
+   at NetworkCommsDotNet.Connections.Connection.SendObject[sendObjectType](String sendingPacketType, sendObjectType objectToSend, SendReceiveOptions options)
+   at NetworkCommsDotNet.NetworkComms.SendObject[sendObjectType](String packetTypeStr, String destinationIPAddress, Int32 destinationPort, sendObjectType sendObject)
+   at Server.Program.HandleGuess(PacketHeader packetheader, Connection connection, String[] guess) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 63
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at ProtoBuf.Meta.TypeModel.ThrowUnexpectedType(Type type)
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value)
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context)
+   at NetworkCommsDotNet.DPSBase.ProtobufSerializer.SerialiseDataObjectInt(Stream ouputStream, Object objectToSerialise, Dictionary`2 options)
+   at NetworkCommsDotNet.DPSBase.DataSerializer.SerialiseGeneralObject[T](T objectToSerialise, List`1 dataProcessors, Dictionary`2 options)
+   at NetworkCommsDotNet.DPSBase.DataSerializer.SerialiseDataObject[T](T objectToSerialise, List`1 dataProcessors, Dictionary`2 options)
+   at NetworkCommsDotNet.Packet.Constructor[payloadObjectType](String sendingPacketTypeStr, String requestReturnPacketTypeStr, payloadObjectType payloadObject, SendReceiveOptions options, Boolean isNested)
+   at NetworkCommsDotNet.Connections.Connection.SendObject[sendObjectType](String sendingPacketType, sendObjectType objectToSend, SendReceiveOptions options)
+   at NetworkCommsDotNet.NetworkComms.SendObject[sendObjectType](String packetTypeStr, String destinationIPAddress, Int32 destinationPort, sendObjectType sendObject)
+   at Server.Program.HandleGuess(PacketHeader packetheader, Connection connection, String[] guess) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 63
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)

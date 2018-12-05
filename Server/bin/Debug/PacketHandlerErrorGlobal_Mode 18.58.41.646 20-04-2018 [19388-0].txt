@@ -1,0 +1,16 @@
+Base Exception Type: System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Server.Program.GetPlayers(Connection connection) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 116
+   at Server.Program.PrintMode(PacketHeader header, Connection connection, Int32 modeClient) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 130
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at Server.Program.GetPlayers(Connection connection) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 116
+   at Server.Program.PrintMode(PacketHeader header, Connection connection, Int32 modeClient) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 130
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)

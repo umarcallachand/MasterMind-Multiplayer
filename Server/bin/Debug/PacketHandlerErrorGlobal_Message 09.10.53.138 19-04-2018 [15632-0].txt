@@ -1,0 +1,8 @@
+Base Exception Type: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.Program.PrintIncomingMessage(PacketHeader header, Connection connection, String message) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 53
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at Server.Program.PrintIncomingMessage(PacketHeader header, Connection connection, String message) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 53
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)

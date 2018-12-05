@@ -1,0 +1,38 @@
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\Client.exe.config
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\Client.exe
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\Client.pdb
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.exe
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.pdb
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\MasterMind.exe
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\MasterMind.pdb
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\MasterMind.exe.config
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\Client.exe.manifest
+C:\Users\Umar\Desktop\MasterMind\Client\bin\Debug\Client.application
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.TrustInfo.xml
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.exe.manifest
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.application
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Umar\Desktop\MasterMind\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\Client.exe.config
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\Client.exe.manifest
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\Client.application
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\Client.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\Client.pdb
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\MasterMind.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\NetworkCommsDotNetComplete.dll
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\MasterMind.pdb
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\bin\Debug\MasterMind.exe.config
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.Properties.Resources.resources
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.TrustInfo.xml
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.exe.manifest
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.application
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.csproj.CopyComplete
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\Client\obj\Debug\Client.pdb

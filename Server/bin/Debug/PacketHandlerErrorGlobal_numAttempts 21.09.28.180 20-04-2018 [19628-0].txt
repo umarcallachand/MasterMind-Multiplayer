@@ -1,0 +1,10 @@
+Base Exception Type: System.NullReferenceException: Object reference not set to an instance of an object.
+   at MasterMind.Game.ComputerMove(Int32 numColumns) in C:\Users\Umar\Desktop\MasterMind\MasterMind\Game.cs:line 201
+   at Server.Program.GetAttempts(PacketHeader packetheader, Connection connection, Int32 numAttemptsClient) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 79
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)
+
+Stack Trace:    at MasterMind.Game.ComputerMove(Int32 numColumns) in C:\Users\Umar\Desktop\MasterMind\MasterMind\Game.cs:line 201
+   at Server.Program.GetAttempts(PacketHeader packetheader, Connection connection, Int32 numAttemptsClient) in C:\Users\Umar\Desktop\MasterMind\Server\Program.cs:line 79
+   at NetworkCommsDotNet.Tools.PacketTypeHandlerDelegateWrapper`1.Process(PacketHeader packetHeader, Connection connection, Object obj)
+   at NetworkCommsDotNet.NetworkComms.TriggerGlobalPacketHandlers(PacketHeader packetHeader, Connection connection, Object returnObject, Boolean ignoreUnknownPacketTypeOverride)

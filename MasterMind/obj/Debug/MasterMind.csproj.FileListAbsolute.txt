@@ -1,0 +1,21 @@
+C:\Users\Umar\Desktop\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\Umar\Desktop\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\Umar\Desktop\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\Umar\Desktop\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Umar\Desktop\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\Umar\Desktop\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\Umar\Desktop\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.csprojResolveAssemblyReference.cache
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\Umar\Desktop\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+D:\ASc2\2 NET - Microsoft .NET Foundations and Enterprise Applications\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
